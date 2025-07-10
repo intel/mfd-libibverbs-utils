@@ -12,7 +12,7 @@ dependencies = { file = ["requirements.txt"] }
 name = "mfd-libibverbs-utils"
 description = "Module for running libibverbs tools for getting information about Remote Direct Memory Access (RDMA) devices installed in system"
 requires-python = ">=3.10, <3.14"
-version = "1.6.0"
+version = "1.7.0"
 dynamic = ["dependencies"]
 license-files = ["LICENSE.md", "AUTHORS.md"]
 readme = {file = "README.md", content-type = "text/markdown"}
